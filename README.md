@@ -17,6 +17,7 @@ Write a program that asks the user to enter 5 numbers, and then prints the varia
 The variance of [5.00, 3.14, 1.23, 100.00, 0.01] is 1528.72        
 **A Sample Solution**  
 **The Code:**  
+A sample solution is given in 'HW 9 tb.ipynb'
 ![Picture1](https://github.com/taylorbreddy/Psych9040-HW9/assets/164911192/11b77aae-ab06-463c-8026-478a188dd90e) 
     **The Output:**  
 	
